@@ -21,7 +21,7 @@ Langkah-langkah untuk menginstal dan menjalankan Assignment ini di local Anda:
 1. **Clone Repository**
 
    ```bash
-   git clone [https://github.com/zunarvy19/hacktiv-assignment4.git](https://github.com/zunarvy19/hacktiv-assignment4.git)
+   git clone https://github.com/zunarvy19/hacktiv-assignment4.git
    ```
 
 2. **Masuk ke Direktori Proyek**
