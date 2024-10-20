@@ -49,11 +49,11 @@ Langkah-langkah untuk menginstal dan menjalankan Assignment ini di local Anda:
    Untuk menjalankan proyek, gunakan perintah berikut:
 
    ```bash
-   npm run dev
+   npm start
    ```
 
    Atau jika Anda menggunakan Yarn:
 
    ```bash
-   yarn dev
+   yarn start
    ```
