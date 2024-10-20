@@ -68,7 +68,7 @@ function tampilkanData() {
 }
 tampilkanData();
 
-// Function to update data in localStorage
+// Update Data
 function updateUserData() {
   const updatedData = {
     name: document.getElementById("nameInput").value,
@@ -85,7 +85,7 @@ function updateUserData() {
   console.log("Data has been updated:", updatedData);
 }
 
-// Attach event listener to submit button
+// Attach event listener
 document.getElementById("submit").addEventListener("click", function (event) {
   event.preventDefault();
   updateUserData();
